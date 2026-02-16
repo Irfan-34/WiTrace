@@ -1,0 +1,2 @@
+source /Users/mizhabas/wifi_csi_imaging/firmware/csi_receiver/build/bootloader/gdbinit/symbols
+source /Users/mizhabas/wifi_csi_imaging/firmware/csi_receiver/build/bootloader/gdbinit/connect
